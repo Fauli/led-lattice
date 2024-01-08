@@ -86,7 +86,7 @@ The backplate after cutting and drilling the holes.
 
 ### Step 1: Preparing the Wood
 
-Based on the pieces list, prepare all needed pieces to assemble the lattice.
+Based on the pieces list, prepare all needed cuts to assemble the lattice.
 
 To improve the througput I worked with templates that I created and used on the long planks to draw the cuts. One has to be careful to calculate the width of the saw blade, in order to have consistency in the length of the pieces.
 
