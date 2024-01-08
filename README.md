@@ -1,4 +1,4 @@
-# DIY LED Lattice Project
+# LED Lattice Project
 
 ## Introduction
 Welcome to the DIY LED Lattice Project!
@@ -12,13 +12,15 @@ The finished product will be a beautiful LED lattice that you can use for decora
     - I got some from Jumbo that were 240x56x10mm
 - Wooden backplate
     - I used a plywood plate that is white on one side, 1200x600x4mm
+- Screws (for assembling the lattice)
+    - For the frame: 3x12 screws
+    - For the rest: 3x20 screws
+- Steel L Right Angle Bracket, 90 Degree Metal Joint Corner Braces 
 - Soldering iron and solder
 - Wire (for connecting LED strips)
 - Microcontroller 
     - In my case I'm using a BC-216 Artnet to SPI/DMX Pixel light controller
-- Screws (for assembling the lattice)
-    - For the frame: 3x12 screws
-    - For the rest: 3x20 screws
+- 3 pin JST connector
 - Acryl spray for coloring the frame (optional)
 
 ## Tools Required
@@ -27,9 +29,9 @@ The finished product will be a beautiful LED lattice that you can use for decora
 - Wire cutters and strippers
 - Computer with an Artnet souce
 
-## Cut pieces list
+## list of Woodcuts
 
-| Amount   | Dimensions     | Used for              | Description |
+| Amount   | Dimensions     |   Used for            | Description |
 |----------|----------------|-----------------------|-------------|
 |   1      |   600x410x4mm  |   Backplate           |  Backplate where the LEDs are fixed on     |
 |   2      |   410x56x10mm  |   Frame horizontal    |  Plain piece   |
@@ -47,6 +49,16 @@ The finished product will be a beautiful LED lattice that you can use for decora
 
 ![Lattice Vertical](/images/lattice-vertical.png)
 
+#### Backplate
+
+![Backplate](/images/backplate.png)
+
+The measurements of the backplate before doing any sawing.
+
+![Backplate-Holes](/images/backplate-drilled-holes.png)
+
+The backplate after cutting and drilling the holes.
+
 
 ## Construction Guide
 
@@ -54,35 +66,97 @@ The finished product will be a beautiful LED lattice that you can use for decora
 
 Based on the pieces list, prepare all needed pieces to assemble the lattice.
 
-### Step 3: Assembling the Lattice
-Assemble the wooden planks into your lattice design using wood glue or screws.
+To improve the througput I worked with templates that I created and used on the long planks to draw the cuts. One has to be careful to calculate the width of the saw blade, in order to have consistency in the length of the pieces.
 
-*Insert Image: `/images/assembling_lattice.jpg`*
+I would recommend you cut all pieces before you start with any further steps.
 
-### Step 4: Attaching the LED Strips
-Cut the WS2812 LED strips to fit the sections of your lattice. Solder wires to connect the strips as needed.
+### Step 2: Assembling the frame
+Assemble the wooden planks cuts that will form the frame together on the corners using the steel L right angle brackets. Use the 3x12 screws to not have screw ends hanging out into the lattice.
 
-*Insert Image: `/images/attaching_leds.jpg`*
+![TODO-frame](/images/frame.png)
 
-### Step 5: Wiring and Electronics
-Connect the LED strips to the microcontroller and power supply. Ensure all connections are secure.
+### Step 3: Assembling the lattice
 
-*Insert Image: `/images/wiring.jpg`*
+Assemble the center lattice by pushing the cutouts into each other.
+If you did the cutting properly following the plan, this should be a rather easy task.
 
-### Step 6: Programming the Microcontroller
-Program the microcontroller using the Arduino IDE to control the LED patterns.
+![lattice](/images/center-lattice.png)
 
-*Insert Image: `/images/programming.jpg`*
 
-### Step 7: Final Assembly
+### Step 4: Putting the frame and lattice together
+
+Assemble the center lattice by pushing the cutouts into each other.
+If you did the cutting properly following the plan, this should be a rather easy task.
+
+![frame-lattice](/images/frame-and-lattice.png)
+
+Wait with screwing them together until the backplate is also finished.
+
+### Step 5: Attaching the LED Strips to the backplate
+
+The 12mm holes should be just a little big bigger than the 10mm LEDs with the soldered on connections.
+
+Place them into the holes whole having the wooden side facing up and use hot-melt adhesive (hot glue) for easy attachement.
+
+![TODO-duct-tape-prep](/images/LED-glue-duct-tape.png)
+
+In order to fix the LEDs in the holes while applying the glue, I taped duct-tape over the holes on the white side of the backplate. This held the LEDs in place (kind of 😁).
+
+![glue-in-progress](/images/LED-glue-in-progress.png)
+
+In progress
+
+![glue-done](/images/LED-glue-done.png)
+
+Finished product. I applied further hot glue around the cable to protect it from strain.
+
+### Step 6: Add feet for protection of cables
+
+In order to protect the cables when having the installation on the floor or hung up on a wall, I added small 50mm feet to the back of the backplate.
+
+![feet](/images/feet.png)
+
+These are the feet on the finished and painted version.
+
+### Step 7: Putting it all together
+
+Place the frame, lattice and backplate together. 
+Use the 3x20 screws to fix the frame to the lattice by applying screws on all sides through the fram into the lattice.
+
+Also screw throught the backplate into the lattice.
+
+![backplate-screws](/images/backplate-screws.png)
+
+### Step 8: Before adding matte transparent paper
 Attach the electronics to the lattice. Secure all components and tidy up the wiring.
 
-*Insert Image: `/images/final_assembly.jpg`*
+![finished-from-top](/images/finished-from-top.png)
 
-### Step 8: Enjoy Your LED Lattice!
-Turn on the power and enjoy the beautiful light patterns of your handmade LED lattice!
+![close-up-side](/images/close-up-side.png)
 
-*Insert Image: `/images/completed_project.jpg`*
+![finished-on-floor](/images/finished-on-floor.png)
 
-## Conclusion
-Congratulations on completing your DIY LED Lattice! This project not only enhances your space with beautiful lighting but also serves as a testament to your skills in electronics and woodworking.
+![in-action-without-matte-paper](/images/in-action-without-matte-paper.gif)
+
+Check in between 🥳
+
+### Step 9: Coloring (optionally)
+
+I decided to color the outside of the lattice black to make it not stand out too much in a dark dance room.
+
+![coloring](/images/coloring.png)
+
+### Step 10: Attach matte transparent paper
+Attach the electronics to the lattice. Secure all components and tidy up the wiring.
+
+![TODO-added-matte-paper](/images/with-paper.png)
+
+## In action
+
+Turn on the power and enjoy the beautiful light patterns of the LED lattice!
+
+![TODO-finished-video](/images/finished-video.gif)
+
+## Content to show?
+
+In order to have some specific conent for the lattice, I wrote some GLSL that can be found in my other repository: [Fauli/shaders](https://github.com/Fauli/shaders/tree/main/grids)
