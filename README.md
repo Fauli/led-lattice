@@ -17,9 +17,8 @@
     + [Step 5: Attaching the LED Strips to the backplate](#step-5--attaching-the-led-strips-to-the-backplate)
     + [Step 6: Add feet for protection of cables](#step-6--add-feet-for-protection-of-cables)
     + [Step 7: Putting it all together](#step-7--putting-it-all-together)
-    + [Step 8: Before adding matte transparent paper](#step-8--before-adding-matte-transparent-paper)
-    + [Step 9: Coloring (optionally)](#step-9--coloring--optionally-)
-    + [Step 10: Attach matte transparent paper](#step-10--attach-matte-transparent-paper)
+    + [Step 8: Coloring (optionally)](#step-8--coloring--optionally-)
+    + [Step 9: Attach matte transparent paper](#step-9--attach-matte-transparent-paper)
   * [In action](#in-action)
   * [Content to show?](#content-to-show-)
 
@@ -150,26 +149,23 @@ Also screw throught the backplate into the lattice.
 
 ![backplate-screws](/images/backplate-screws.png)
 
-### Step 8: Before adding matte transparent paper
-Attach the electronics to the lattice. Secure all components and tidy up the wiring.
-
 ![finished-from-top](/images/finished-from-top.png)
-
-![close-up-side](/images/close-up-side.png)
-
-![finished-on-floor](/images/finished-on-floor.png)
 
 ![in-action-without-matte-paper](/images/in-action-without-matte-paper.gif)
 
 Testing it out 🥳
 
-### Step 9: Coloring (optionally)
+### Step 8: Coloring (optionally)
 
 I decided to color the outside of the lattice black to make it not stand out too much on a dark dance floor.
 
 ![coloring](/images/coloring.png)
 
-### Step 10: Attach matte transparent paper
+![close-up-side](/images/close-up-side.png)
+
+![finished-on-floor](/images/finished-on-floor.png)
+
+### Step 9: Attach matte transparent paper
 
 Attach the electronics to the lattice. Secure all components and tidy up the wiring.
 
