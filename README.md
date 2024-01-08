@@ -29,7 +29,7 @@ This project is perfect for those who love DIY electronics and woodworking.
 The finished product will be a beautiful LED lattice that you can use for decorative lighting in your home, office or parties.
 
 ## Materials List
-- WS2812 LED Strips (Ones with ~10cm distance between the individual lights)
+- WS2812 LED Strips ([Ones with ~10cm distance between the individual lights](/images/led-strips.png))
 - Wooden planks (size depends on desired lattice size)
     - I got some from Jumbo that were 240x56x10mm
 - Wooden backplate
