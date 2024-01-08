@@ -1,5 +1,28 @@
 # LED Lattice Project
 
+- [LED Lattice Project](#led-lattice-project)
+  * [Introduction](#introduction)
+  * [Materials List](#materials-list)
+  * [Tools Required](#tools-required)
+  * [List of Woodcuts](#list-of-woodcuts)
+    + [Special pieces](#special-pieces)
+      - [Lattice horizontal](#lattice-horizontal)
+      - [Lattice vertical](#lattice-vertical)
+      - [Backplate](#backplate)
+  * [Construction Guide](#construction-guide)
+    + [Step 1: Preparing the Wood](#step-1--preparing-the-wood)
+    + [Step 2: Assembling the frame](#step-2--assembling-the-frame)
+    + [Step 3: Assembling the lattice](#step-3--assembling-the-lattice)
+    + [Step 4: Putting the frame and lattice together](#step-4--putting-the-frame-and-lattice-together)
+    + [Step 5: Attaching the LED Strips to the backplate](#step-5--attaching-the-led-strips-to-the-backplate)
+    + [Step 6: Add feet for protection of cables](#step-6--add-feet-for-protection-of-cables)
+    + [Step 7: Putting it all together](#step-7--putting-it-all-together)
+    + [Step 8: Before adding matte transparent paper](#step-8--before-adding-matte-transparent-paper)
+    + [Step 9: Coloring (optionally)](#step-9--coloring--optionally-)
+    + [Step 10: Attach matte transparent paper](#step-10--attach-matte-transparent-paper)
+  * [In action](#in-action)
+  * [Content to show?](#content-to-show-)
+
 ## Introduction
 Welcome to the DIY LED Lattice Project!
 This guide will walk you through creating a stunning LED lattice using WS2812 LEDs and wood.
@@ -29,7 +52,7 @@ The finished product will be a beautiful LED lattice that you can use for decora
 - Wire cutters and strippers
 - Computer with an Artnet souce
 
-## list of Woodcuts
+## List of Woodcuts
 
 | Amount   | Dimensions     |   Used for            | Description |
 |----------|----------------|-----------------------|-------------|
@@ -138,15 +161,16 @@ Attach the electronics to the lattice. Secure all components and tidy up the wir
 
 ![in-action-without-matte-paper](/images/in-action-without-matte-paper.gif)
 
-Check in between 🥳
+Testing it out 🥳
 
 ### Step 9: Coloring (optionally)
 
-I decided to color the outside of the lattice black to make it not stand out too much in a dark dance room.
+I decided to color the outside of the lattice black to make it not stand out too much on a dark dance floor.
 
 ![coloring](/images/coloring.png)
 
 ### Step 10: Attach matte transparent paper
+
 Attach the electronics to the lattice. Secure all components and tidy up the wiring.
 
 ![TODO-added-matte-paper](/images/with-paper.png)
