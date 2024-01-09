@@ -120,13 +120,13 @@ The 12mm holes should be just a little big bigger than the 10mm LEDs with the so
 
 Place them into the holes whole having the wooden side facing up and use hot-melt adhesive (hot glue) for easy attachement.
 
-![TODO-duct-tape-prep](/images/LED-glue-duct-tape.png)
+![duct-tape-prep](/images/duct-tape.png)
 
 In order to fix the LEDs in the holes while applying the glue, I taped duct-tape over the holes on the white side of the backplate. This held the LEDs in place (kind of 😁).
 
 ![glue-in-progress](/images/LED-glue-in-progress.png)
 
-In progress
+In progress. I used a third hand to keep the light in place while waiting for the hot glue to cool down.
 
 ![glue-done](/images/LED-glue-done.png)
 
