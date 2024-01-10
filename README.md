@@ -95,7 +95,10 @@ I would recommend you cut all pieces before you start with any further steps.
 ### Step 2: Assembling the frame
 Assemble the wooden planks cuts that will form the frame together on the corners using the steel L right angle brackets. Use the 3x12 screws to not have screw ends hanging out into the lattice.
 
-![TODO-frame](/images/frame.png)
+![TODO-frame](/images/frame.jpg)
+
+![TODO-frame](/images/corner.jpg)
+
 
 ### Step 3: Assembling the lattice
 
