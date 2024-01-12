@@ -1,26 +1,27 @@
 # LED Lattice Project
 
 - [LED Lattice Project](#led-lattice-project)
-  * [Introduction](#introduction)
-  * [Materials List](#materials-list)
-  * [Tools Required](#tools-required)
-  * [List of Woodcuts](#list-of-woodcuts)
-    + [Special pieces](#special-pieces)
+  - [Introduction](#introduction)
+  - [Materials List](#materials-list)
+  - [Tools Required](#tools-required)
+  - [List of Woodcuts](#list-of-woodcuts)
+    - [Special pieces](#special-pieces)
       - [Lattice horizontal](#lattice-horizontal)
       - [Lattice vertical](#lattice-vertical)
       - [Backplate](#backplate)
-  * [Construction Guide](#construction-guide)
-    + [Step 1: Preparing the Wood](#step-1--preparing-the-wood)
-    + [Step 2: Assembling the frame](#step-2--assembling-the-frame)
-    + [Step 3: Assembling the lattice](#step-3--assembling-the-lattice)
-    + [Step 4: Putting the frame and lattice together](#step-4--putting-the-frame-and-lattice-together)
-    + [Step 5: Attaching the LED Strips to the backplate](#step-5--attaching-the-led-strips-to-the-backplate)
-    + [Step 6: Add feet for protection of cables](#step-6--add-feet-for-protection-of-cables)
-    + [Step 7: Putting it all together](#step-7--putting-it-all-together)
-    + [Step 8: Coloring (optionally)](#step-8--coloring--optionally-)
-    + [Step 9: Attach matte transparent paper](#step-9--attach-matte-transparent-paper)
-  * [In action](#in-action)
-  * [Content to show?](#content-to-show-)
+  - [Construction Guide](#construction-guide)
+    - [Step 1: Preparing the Wood](#step-1-preparing-the-wood)
+    - [Step 2: Assembling the frame](#step-2-assembling-the-frame)
+    - [Step 3: Assembling the lattice](#step-3-assembling-the-lattice)
+    - [Step 4: Putting the frame and lattice together](#step-4-putting-the-frame-and-lattice-together)
+    - [Step 5: Attaching the LED Strips to the backplate](#step-5-attaching-the-led-strips-to-the-backplate)
+    - [Step 6: Add feet for protection of cables](#step-6-add-feet-for-protection-of-cables)
+    - [Step 7: Putting it all together](#step-7-putting-it-all-together)
+    - [Step 8: Coloring (optionally)](#step-8-coloring-optionally)
+    - [Step 9: Attach matte transparent paper](#step-9-attach-matte-transparent-paper)
+  - [In action](#in-action)
+  - [Content to show?](#content-to-show)
+
 
 ## Introduction
 Welcome to the DIY LED Lattice Project!
@@ -53,13 +54,13 @@ The finished product will be a beautiful LED lattice that you can use for decora
 
 ## List of Woodcuts
 
-| Amount   | Dimensions     |   Used for            | Description |
-|----------|----------------|-----------------------|-------------|
-|   1      |   600x410x4mm  |   Backplate           |  Backplate where the LEDs are fixed on     |
-|   2      |   410x56x10mm  |   Frame horizontal    |  Plain piece   |
-|   2      |   590x56x10mm  |   Frame vertical      |  Plain piece   |
-|   3      |   590x56x10mm  |   Lattice horizontal  |  Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below   |
-|   5      |   390x56x10mm  |   Lattice vertical    |  Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below   |
+| Amount | Dimensions  | Used for           | Description                                                                                    |
+| ------ | ----------- | ------------------ | ---------------------------------------------------------------------------------------------- |
+| 1      | 600x410x4mm | Backplate          | Backplate where the LEDs are fixed on                                                          |
+| 2      | 410x56x10mm | Frame horizontal   | Plain piece                                                                                    |
+| 2      | 590x56x10mm | Frame vertical     | Plain piece                                                                                    |
+| 3      | 590x56x10mm | Lattice horizontal | Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below |
+| 5      | 390x56x10mm | Lattice vertical   | Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below |
 
 ### Special pieces
 
