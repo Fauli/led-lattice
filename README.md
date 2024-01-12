@@ -54,13 +54,13 @@ The finished product will be a beautiful LED lattice that you can use for decora
 
 ## List of Woodcuts
 
-| Amount   | Dimensions     |   Used for            | Description |
-|----------|----------------|-----------------------|-------------|
-|   1      |   600x410x4mm  |   Backplate           |  Backplate where the LEDs are fixed on     |
-|   2      |   410x56x10mm  |   Frame horizontal    |  Plain piece   |
-|   2      |   590x56x10mm  |   Frame vertical      |  Plain piece   |
-|   3      |   590x56x10mm  |   Lattice horizontal  |  Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below   |
-|   5      |   390x56x10mm  |   Lattice vertical    |  Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below   |
+| Amount | Dimensions  | Used for           | Description                                                                                    |
+| ------ | ----------- | ------------------ | ---------------------------------------------------------------------------------------------- |
+| 1      | 600x410x4mm | Backplate          | Backplate where the LEDs are fixed on                                                          |
+| 2      | 410x56x10mm | Frame horizontal   | Plain piece                                                                                    |
+| 2      | 590x56x10mm | Frame vertical     | Plain piece                                                                                    |
+| 3      | 590x56x10mm | Lattice horizontal | Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below |
+| 5      | 390x56x10mm | Lattice vertical   | Piece with 3cm deep and 1 cm wide cut every 10cm in the wood. See special pieces section below |
 
 ### Special pieces
 
