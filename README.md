@@ -170,9 +170,9 @@ I decided to color the outside of the lattice black to make it not stand out too
 
 ### Step 9: Attach matte transparent paper
 
-Attach the electronics to the lattice. Secure all components and tidy up the wiring.
+Attach the electronics to the lattice. I used a stapler gun to fix it to the lattice.
 
-![TODO-added-matte-paper](/images/with-paper.png)
+![TODO-added-matte-paper](/images/complete-with-matte-paper.jpg)
 
 ## In action
 
